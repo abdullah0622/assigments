@@ -5,3 +5,5 @@ if age or chronic or immune:
     print("You are in risky group")
 else:
     print("You are not in risky group")
+
+    
